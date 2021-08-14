@@ -21,11 +21,16 @@ body {
     align-items: center;
     justify-content: center;
 }
+.input {
+    width: 200px;
+    height: 40px;
+}
 
 .val-icon {
-    padding: 0 2px;
+    padding: 0;
     width: 20px;
     height: 10px;
     border: 1px solid inherit;
     background: lavenderblush;
 }
+.
